@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="profile-animation.gif" width="100%" height="auto" style="width:100%;height:auto;">
+<!-- ### Hi there 👋 -->
 
 <!--
 **yanchespenda/yanchespenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
