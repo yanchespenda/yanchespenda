@@ -1,4 +1,4 @@
-<img src="profile-animation.gif" width="100%" height="auto" style="width:100%;height:auto;">
+<img src="https://res.cloudinary.com/dslncjjz1/image/upload/v1594724841/storage/profile-animation.gif" width="100%" height="auto" style="width:100%;height:auto;">
 <!-- ### Hi there 👋 -->
 
 <!--
