@@ -1,4 +1,7 @@
-<img src="https://res.cloudinary.com/dslncjjz1/image/upload/v1594724841/storage/profile-animation.gif" width="100%" height="auto" style="width:100%;height:auto;">
+![My card name](https://cardivo.vercel.app/api?name=Alfian%20Rikzandi&description=Hi,%20i%27m%20a%20full%20stack%20developer.%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/u/13547711?v=4&backgroundColor=%23303a52&linkedin=Alfian%20Rikzandi&github=yanchespenda&pattern=plus&colorPattern=%23black&fontColor=white&iconColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=yanchespenda&show_icons=true&theme=dark">
+
 <!-- ### Hi there 👋 -->
 
 <!--
