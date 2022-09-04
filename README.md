@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Alfian%20Rikzandi&description=Hi,%20i%27m%20a%20full%20stack%20developer.%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/u/13547711?v=4&backgroundColor=%23303a52&linkedin=Alfian%20Rikzandi&github=yanchespenda&pattern=plus&colorPattern=%23black&fontColor=white&iconColor=white)
+![My card name](https://cardivo-dev.vercel.app/api?name=Alfian%20Rikzandi&description=Hi,%20i%27m%20a%20full%20stack%20developer.%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/u/13547711?v=4&backgroundColor=%23303a52&linkedin=Alfian%20Rikzandi&github=yanchespenda&pattern=plus&colorPattern=%23black&fontColor=white&iconColor=white)
 
 <div align="center">
   You can reach me here:<br><br>
